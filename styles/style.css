@@ -18,7 +18,6 @@
 body {
   height: 100vh;
   box-sizing: border-box;
-  background: url('/images/bg.jpg') no-repeat center center;
   position: relative;
 }
 
